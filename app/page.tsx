@@ -9,9 +9,9 @@ const proyectos = [
     descripcion: "Edits dinámicos para Instagram, TikTok y contenido vertical.",
     imagen: "/proyecto1.jpg",
     videos: [
-      "https://www.youtube.com/embed/ID_DEL_REEL_1",
-      "https://www.youtube.com/embed/ID_DEL_REEL_2",
-      "https://www.youtube.com/embed/ID_DEL_REEL_3",
+      "https://www.youtube.com/embed/aVTSV1cfTT8",
+      "https://www.youtube.com/embed/aVTSV1cfTT8",
+      "https://www.youtube.com/embed/aVTSV1cfTT8",
     ],
   },
   {
@@ -22,7 +22,7 @@ const proyectos = [
       "https://www.youtube.com/embed/Q9l4F5s_Itc",
       "https://www.youtube.com/embed/aVTSV1cfTT8",
       "https://www.youtube.com/embed/V_MhRlokJoI",
-      "https://www.youtube.com/embed/ID_YOUTUBE_4",
+      "https://www.youtube.com/embed/aVTSV1cfTT8",
     ],
   },
   {
